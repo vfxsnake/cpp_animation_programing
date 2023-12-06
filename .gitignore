@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Folders
+build
+.vscode
+out
+.cproject
+.project
+.vs
+
+02_opengl_window
+03_vulkan_window
+04_event_handling
+05_window_with_input
